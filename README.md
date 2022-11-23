@@ -44,13 +44,16 @@ Your finished project must include all of the following requirements:
 
 [Review the provided design file for the menu page](design-files/Unit1-Sprint3-Module1.png).
 
-* [ ] Create the HTML structure using semantic tags
-* [ ] Fill in the blanks in the CSS
+* [x] Create the HTML structure using semantic tags
+* [x] Fill in the blanks in the CSS
 
 ### Stretch Tasks
 
 Only attempt these tasks after you've successfully reached MVP. Create a branch, do not do stretch in the same branch for HTML/CSS projects.
 
-* [ ] Fork your final work and see how much you can change the design without changing the HTML; try to transform the site by only using CSS selectors
-* [ ] Look at CSS animations and see if you could integrate them on the navigation hovers
-* [ ] Pick a navigation item and create a new page with the same header and footer as the home page; be creative and have fun coming up with your own unique content and styles
+* [] Fork your final work and see how much you can change the design 
+without changing the HTML; try to transform the site by only using CSS selectors
+* [] Look at CSS animations and see if you could integrate them on the 
+navigation hovers
+* [] Pick a navigation item and create a new page with the same header 
+and footer as the home page; be creative and have fun coming up with your own unique content and styles
